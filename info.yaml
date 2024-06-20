@@ -24,7 +24,7 @@ project:
 pinout:
   # Inputs
   ui[0]: "a[0]"
-  ui[1]: "a[7]"
+  ui[1]: "a[1]"
   ui[2]: "a[2]"
   ui[3]: "a[3]"
   ui[4]: "a[4]"
